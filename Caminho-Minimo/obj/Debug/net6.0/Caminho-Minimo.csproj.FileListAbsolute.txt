@@ -1,0 +1,15 @@
+C:\Users\ruant\source\repos\Caminho-Minimo\Caminho-Minimo\bin\Debug\net6.0\Caminho-Minimo.exe
+C:\Users\ruant\source\repos\Caminho-Minimo\Caminho-Minimo\bin\Debug\net6.0\Caminho-Minimo.deps.json
+C:\Users\ruant\source\repos\Caminho-Minimo\Caminho-Minimo\bin\Debug\net6.0\Caminho-Minimo.runtimeconfig.json
+C:\Users\ruant\source\repos\Caminho-Minimo\Caminho-Minimo\bin\Debug\net6.0\Caminho-Minimo.dll
+C:\Users\ruant\source\repos\Caminho-Minimo\Caminho-Minimo\bin\Debug\net6.0\Caminho-Minimo.pdb
+C:\Users\ruant\source\repos\Caminho-Minimo\Caminho-Minimo\obj\Debug\net6.0\Caminho-Minimo.csproj.AssemblyReference.cache
+C:\Users\ruant\source\repos\Caminho-Minimo\Caminho-Minimo\obj\Debug\net6.0\Caminho-Minimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruant\source\repos\Caminho-Minimo\Caminho-Minimo\obj\Debug\net6.0\Caminho-Minimo.AssemblyInfoInputs.cache
+C:\Users\ruant\source\repos\Caminho-Minimo\Caminho-Minimo\obj\Debug\net6.0\Caminho-Minimo.AssemblyInfo.cs
+C:\Users\ruant\source\repos\Caminho-Minimo\Caminho-Minimo\obj\Debug\net6.0\Caminho-Minimo.csproj.CoreCompileInputs.cache
+C:\Users\ruant\source\repos\Caminho-Minimo\Caminho-Minimo\obj\Debug\net6.0\Caminho-Minimo.dll
+C:\Users\ruant\source\repos\Caminho-Minimo\Caminho-Minimo\obj\Debug\net6.0\refint\Caminho-Minimo.dll
+C:\Users\ruant\source\repos\Caminho-Minimo\Caminho-Minimo\obj\Debug\net6.0\Caminho-Minimo.pdb
+C:\Users\ruant\source\repos\Caminho-Minimo\Caminho-Minimo\obj\Debug\net6.0\Caminho-Minimo.genruntimeconfig.cache
+C:\Users\ruant\source\repos\Caminho-Minimo\Caminho-Minimo\obj\Debug\net6.0\ref\Caminho-Minimo.dll
