@@ -72,7 +72,7 @@ namespace Caminho_Minimo.Graph
                 graph.BellmanFord(s,d);
                 stopwatch.Stop();
                 Console.WriteLine($"Tempo passado: {stopwatch.Elapsed}");
-                stopwatch.Restart();
+                
             }
             catch (Exception e)
             {

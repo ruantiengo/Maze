@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using Caminho_Minimo.Graph;
 using Caminho_Minimo.Main;
+using System.Diagnostics;
 
 ConsoleKeyInfo taskOption;
 Boolean isRunning = true;
@@ -20,7 +21,12 @@ while (isRunning)
                 {
                     int s = main.getValue("Origem");
                     int t = main.getValue("Destino");
+                    var stopwatch = new Stopwatch();
+                    stopwatch.Start();
                     g.BellmanFord(s, t);
+                    stopwatch.Stop();
+                    Console.WriteLine($"Tempo passado: {stopwatch.Elapsed}");
+
                 }
 
                 break;
